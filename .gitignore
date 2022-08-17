@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Sorting Tool/task/build/
+/Sorting Tool/task/out/production/classes/
+/Sorting Tool/task/out/test/classes/
+/Topics/Delegate/A delegate from within/out/
+/Topics/Delegate/A delegate from within/out/production/classes/
+/Topics/Delegate/Choosing the right delegate, with a bit of arithmetics mixed in/out/
+/Topics/Delegate/Choosing the right delegate, with a bit of arithmetics mixed in/out/production/classes/
